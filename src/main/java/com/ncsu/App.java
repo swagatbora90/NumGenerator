@@ -4,7 +4,7 @@ import java.util.UUID;
 
 /**
  * Generate a unique number
- *
+* *
  */
 public class App
 {
